@@ -1,0 +1,6 @@
+com/challenge/demo/repos/PersonaRepo.class
+com/challenge/demo/DemoApplication.class
+com/challenge/demo/models/StatusMsg.class
+com/challenge/demo/models/PersonaModel.class
+com/challenge/demo/controllers/PersonaController.class
+com/challenge/demo/services/PersonaService.class
