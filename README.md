@@ -55,7 +55,7 @@ _aclaracion: el dni es requerido para identificar la persona y debe coincidir co
 
 _Devuelve json con los métodos definidos_
 
-**/swagger-ui.html
+**/swagger-ui.html**
 
 _Swagger UI básico_
 
